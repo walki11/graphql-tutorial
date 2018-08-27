@@ -1,4 +1,4 @@
-# apollo-tutorial-kit
+# graphql-tutorial
 
 Starting point for the Apollo GraphQL Server tutorial.
 
